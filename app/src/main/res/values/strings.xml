@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ReMind</string>
+    <string name="hello">Hello world</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">High Scores</string>
+    <string name="nav_settings">Settings</string>
+    <string name="button_start">Start</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="pathways_game_activity">PathwaysGame</string>
+    <string name="chimp_game_activity">ChimpGame</string>
+    <string name="minigame">Minigames</string>
+    <string name="pathways">Pathways</string>
+    <string name="submit">Submit</string>
+    <string name="moregames">More games coming soon!</string>
+    <string name="refresh">Refresh</string>
+    <string name="firstPlace">🥇</string>
+    <string name="secondPlace">🥈</string>
+    <string name="thirdPlace">🥉</string>
+    <string name="championCup">🏆</string>
+    <string name="flames">🔥</string>
+    <string name="chimpgame">Chimp Game</string>
+    <string name="try_again">Try Again</string>
+    <string name="settings">Settings</string>
+    <string name="darkmode">Dark Mode</string>
+</resources>
